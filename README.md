@@ -1,5 +1,5 @@
 
-> Open this page at [https://carlts.github.io/grove-sensor-tutorial/](https://carlts.github.io/grove-sensor-tutorial/)
+> Open this page at [https://github.com/DCam001/DCMB](https://github.com/DCam001/DCMB)
 
 ## Tutorials
 * [groveSensors](/grove-sensor-tutorial/groveSensors)
@@ -12,22 +12,22 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/carlts/grove-sensor-tutorial** and import
+* search for **https://github.com/DCam001/DCMB** and import
 
-## Edit this project ![Build status badge](https://github.com/carlts/grove-sensor-tutorial/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/DCam001/DCMB/grove-sensor-tutorial/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/carlts/grove-sensor-tutorial** and click import
+* paste **https://github.com/DCam001/DCMB** and click import
 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/carlts/grove-sensor-tutorial/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/DCam001/DCMB/grove-sensor-tutorial/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
