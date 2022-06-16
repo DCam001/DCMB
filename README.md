@@ -14,7 +14,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/DCam001/DCMB** and import
 
-## Edit this project ![Build status badge](https://github.com/DCam001/DCMB/grove-sensor-tutorial/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/DCam001/DCMB/blob/main/images/4digitdisplaysetup.jpg)
 
 To edit this repository in MakeCode.
 
